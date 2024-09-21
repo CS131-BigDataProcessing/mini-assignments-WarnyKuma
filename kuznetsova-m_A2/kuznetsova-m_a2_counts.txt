@@ -1,0 +1,2 @@
+      6      78
+The first number represents number of lines, so there are 6 lines that include "Good luck, babe ". The second number, which is 78, tells the number of words in that same grep.
