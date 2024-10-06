@@ -1,0 +1,319 @@
+    1  ping 172.20.25.9
+    2  passwd
+    3  wget www.github.com
+    4  ls
+    5  vi
+    6  vi test.txt
+    7  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+    8  insights-client --register
+    9  vi
+   10  mkdir <kuznetsovaF_A4_shell>
+   11  mkdir<kuznetsovaF_A4_shell>
+   12  ls
+   13  cd ~
+   14  mkdir <kuznetsovaF_A4_shell>
+   15  vi mkdir <kuznetsovaF_A4_shell>
+   16  mkdir kuznetsovaF_A4_shell
+   17  cd kuznetsovaF_A4_shell/
+   18  cp class_practice.sh
+   19  vi class_practice.sh
+   20  sh class_practice.sh Masha
+   21  cd ~
+   22  ls
+   23  $ mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
+   24  mkdir -p ~/.vim ~/.vim/autoload ~/.vim/backup ~/.vim/colors ~/.vim/plugged
+   25  vi ~/.vimrc
+   26  cd kuznetsovaF_A4_shell/
+   27  cd
+   28  ls
+   29  vi ~/.vimrc
+   30  vi kuznetsovaF_A4_shell/
+   31  $printenv
+   32  $printenv HOME
+   33  echo $HOME
+   34  $ my_varaible=”Hello, I am your variable”
+   35  $ echo $my_varaible
+   36  Hello, I am your variable
+   37  $ exit
+   38  exit
+   39  $ my_variable = "Hello, I am your variable."
+   40  $vi~/.bash_profile
+   41  $printenv
+   42  ls
+   43  echo $HOME
+   44  $printenv HOME
+   45  $printenv $HOME
+   46  mkdir kuznetsovaFI_A4
+   47  cd kuznetsovaFI_A4
+   48  cd kuznetsovaFI_A4/
+   49  vi echoing.sh
+   50  who
+   51  date
+   52  $HOME
+   53  $USER
+   54  USER
+   55  cd ~
+   56  $USER
+   57  cd kuznetsovaFI_A4/
+   58  $VARIABLE
+   59  $V<ARIABLE>
+   60  $<VARIABLE>
+   61  $VARIABLE
+   62  $USER
+   63  vi echoing.sh 
+   64  echoing.sh
+   65  $ sh echoing.sh 
+   66  sh echoing.sh 
+   67  vi echoing.sh 
+   68  sh echoing.sh 
+   69  vi echoing.sh 
+   70  $USERNAME
+   71  vi echoing.sh 
+   72  sh echoing.sh 
+   73  vi echoing.sh 
+   74  sh echoing.sh 
+   75  vi echoing.sh 
+   76  sh echoing.sh 
+   77  vi echoing.sh 
+   78  git clone gh repo clone CS131-BigDataProcessing/CS131_fa24_datafiles
+   79  gh repo clone CS131-BigDataProcessing/CS131_fa24_datafiles
+   80  git clone https://github.com/CS131-BigDataProcessing/CS131_fa24_datafiles.git
+   81  pull Lec02/goodluck.txt
+   82  ls
+   83  cd CS131_fa24_datafiles/
+   84  pulldown Lec02/goodluck.txt 
+   85  pull Lec02/goodluck.txt 
+   86  git pull Lec02/goodluck.txt 
+   87  cd Lec02
+   88  pull goodluck.txt 
+   89  vi goodluck.txt 
+   90  grep "Good luck, babe " goodluck.txt 
+   91  wc -l -w grep "Good luck, babe " goodluck.txt 
+   92  grep "Good luck, babe " goodluck.txt | wc -w -l
+   93  grep "Good luck, babe " goodluck.txt | wc -L -W
+   94  grep "Good luck, babe " goodluck.txt | wc -l -w
+   95  grep "Good luck, babe " goodluck.txt | wc -l -w > kuznetsova-m_a2_counts.txt
+   96  vi kuznetsova-m_a2_counts.txt 
+   97  history > kuznetsova-m_a2_cmds.log
+   98  cd ~
+   99  mkdir kuznetsova-m_A2
+  100  cd kuznetsova-m_A2/
+  101  cd Lec02
+  102  cd ..
+  103  cd CS131_fa24_datafiles/
+  104  cd Lec02
+  105  mv kuznetsova-m_a2_counts.txt ~/kuznetsova-m_A2
+  106  mv kuznetsova-m_a2_cmds.log ~/kuznetsova-m_A2/
+  107  cd ~
+  108  cd kuznetsova-m_A2/
+  109  ls
+  110  open kuznetsova-m_a2_cmds.log 
+  111  cd kuznetsova-m_A2/
+  112  cd ..
+  113  ls
+  114  git clone https://github.com/CS131-BigDataProcessing/mini-assignments-WarnyKuma.git
+  115  ls
+  116  cd mini-assignments-WarnyKuma
+  117  git add kuznetsova-m_A2
+  118  git branch 'Mini assignment'
+  119  git branch Mini-assignment_a2
+  120  git branch 
+  121  git checkout Mini-assignment_a2 
+  122  git push --set-upstream origin Mini-assignment_a2 
+  123  cd ..
+  124  mv kuznetsova-m_A2/ ~/mini-assignments-WarnyKuma/
+  125  cd mini-assignments-WarnyKuma/
+  126  ls
+  127  git status
+  128  git branch 
+  129  git push --set-upstream origin Mini-assignment_a2 
+  130  git pull origin main
+  131  git checkout main
+  132  git merge Mini-assignment_a2 
+  133  git branch
+  134  ls
+  135  git commit -m "added A2 assignment"
+  136  git pull origin main
+  137  git checkout main
+  138  git config --global user.email "marusha.kuz@gmail.com"
+  139  git config --global user.name "WarnyKuma"
+  140  git commit -m "added A2 assignment"
+  141  git add kuznetsova-m_A2/
+  142  git commit -m "added A2 assignment"
+  143  git pull origin main
+  144  git push origin main
+  145  git credential-manager [<command> [<args>]]
+  146  git credential-manager ~/.gitconfig
+  147  git push origin main
+  148  git credential-manager github login
+  149  ls
+  150  mv kuznetsova-m_A2/ ~/
+  151  cd ..
+  152  ls
+  153  rm mini-assignments-WarnyKuma/
+  154  rm -rf mini-assignments-WarnyKuma/
+  155  ls
+  156  git clone git@github.com:WarnyKuma/CS131_fa24_datafiles.git
+  157  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-WarnyKuma.git
+  158  git --version
+  159  git config --global user.name "WarnyKuma"
+  160  git config --global user.email "marusha.kuz@gmail.com"
+  161  ls ~/.ssh
+  162  ssh-keygen -t rsa -C "WarnyKuma <marusha.kuz@gmail.com>"
+  163  cat ~/.ssh/id_rsa.pub
+  164  git clone git@github.com:CS131-BigDataProcessing/mini-assignments-WarnyKuma.git
+  165  ls
+  166  cd mini-assignments-WarnyKuma/
+  167  git add kuznetsova-m_A2
+  168  cd ..
+  169  mv kuznetsova-m_A2/ ~/mini-assignments-WarnyKuma/
+  170  cd mini-assignments-WarnyKuma/
+  171  git add kuznetsova-m_A2/
+  172  git branch
+  173  git commit -m "Added A2 assignment"
+  174  git push
+  175  git tag -a V.A2 -m "Release of Assignment A2"
+  176  git push origin V.A2 
+  177  cd ..
+  178  cd kuznetsovaFI_A4/
+  179  ls
+  180  who
+  181  date
+  182  $HOME
+  183  $USER
+  184  $<VARIABLE>
+  185  vi echoing.sh 
+  186  sh echoing.sh 
+  187  vi echoing.sh 
+  188  sh echoing.sh 
+  189  vi echoing.sh 
+  190  sh echoing.sh 
+  191  sh echoing.sh m 70
+  192  vi echoing.sh 
+  193  sh echoing.sh m 70
+  194  vi echoing.sh 
+  195  sh echoing.sh m 70
+  196  cd ..
+  197  ls
+  198  cp kuznetsovaFI_A4/ mini-assignments-WarnyKuma/
+  199  cd mini-assignments-WarnyKuma/
+  200  ls
+  201  git branch
+  202  cd ..
+  203  ls
+  204  cd mini-assignments-WarnyKuma/
+  205  git switch -c a4
+  206  git status
+  207  git add kuznetsovaFI_A4
+  208  ls
+  209  cd ..
+  210  cp kuznetsovaFI_A4/ ~/mini-assignments-WarnyKuma/
+  211  cp -r kuznetsovaFI_A4/ ~/mini-assignments-WarnyKuma/
+  212  ls
+  213  cd mini-assignments-WarnyKuma/
+  214  ls
+  215  git add kuznetsovaFI_A4/
+  216  git status
+  217  git pull origin main
+  218  git checkout main
+  219  git merge a4
+  220  ls
+  221  git commit -m "Assignment A4 added"
+  222  git push
+  223  git tag -a V.A4 -m "Released A4 that focuses on shell scripting"
+  224  git push origin V.A4
+  225  cd kuznetsovaFI_A4/
+  226  vi echoing.sh 
+  227  vi ~/.bashrc
+  228  ls
+  229  systemctl list-unit-files --type=service --state=enabled
+  230  ls
+  231  mkdir kuznetsovaFI_A5
+  232  cd kuznetsovaFI_A5
+  233  cat > age.sh
+  234  ls
+  235  vi age.sh 
+  236  sh age.sh 
+  237  sh age.sh 5
+  238  vi age.sh 
+  239  sh age.sh 5
+  240  vi age.sh 
+  241  sh age.sh 5
+  242  vi age.sh 
+  243  sh age.sh 5
+  244  vi age.sh 
+  245  sh age.sh 5
+  246  vi age.sh 
+  247  sh age.sh 5
+  248  sh age.sh 17
+  249  sh age.sh 48
+  250  sh age.sh 72
+  251  cat temperature.sh
+  252  cat > temperature.sh
+  253  ls
+  254  rm 65
+  255  ls
+  256  vi temperature.sh 
+  257  vi age.sh 
+  258  vi temperature.sh 
+  259  sh temperature.sh 
+  260  sh temperature.sh 62
+  261  sh temperature.sh 1
+  262  sh temperature.sh 5
+  263  sh temperature.sh 97
+  264  sh temperature.sh 73
+  265  ls
+  266  cd ~
+  267  ls
+  268  cd mini-assignments-WarnyKuma/
+  269  cd ~
+  270  cp kuznetsovaFI_A5 mini-assignments-WarnyKuma/
+  271  cd mini-assignments-WarnyKuma/
+  272  ls
+  273  cd ~
+  274  ls
+  275  cp -r kuznetsovaFI_A5 mini-assignments-WarnyKuma/
+  276  cd mini-assignments-WarnyKuma/
+  277  ls
+  278  git add kuznetsovaFI_A5/
+  279  git commit -m "Added A5"
+  280  git push
+  281  git tag -a V.A5 -m "Short assignment on practicing if-statements"
+  282  git push origin V.A5
+  283  ls
+  284  cd CS131_fa24_datafiles/
+  285  ls
+  286  git clone git@github.com:CS131-BigDataProcessing/CS131_fa24_datafiles.git
+  287  ls
+  288  cd CS131_fa24_datafiles/
+  289  ls
+  290  cd Lec08
+  291  ls
+  292  awk -F, '{print $1}' airline_stats.csv | sort | uniq
+  293  awk -F, '{print $4}' airline_stats.csv | sort | uniq
+  294  cd ~
+  295  cd kuznetsovaFI_A6
+  296  ls
+  297  vi airline_inquiry.txt 
+  298  cd ~
+  299  cd CS131_fa24_datafiles/
+  300  cd Lec08
+  301  awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort
+  302  awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort | unique
+  303  awk -F, '$1 > 10 {print $4}' airline_stats.csv | sort | uniq
+  304  cd ~
+  305  cd CS131_fa24_datafiles/
+  306  cd Lec08
+  307  vi airline_stats.csv 
+  308  cd ~
+  309  cd kuznetsovaFI_A6
+  310  vi airline_inquiry.txt 
+  311  cd ~
+  312  cd CS131_fa24_datafiles/
+  313  cd Lec08
+  314  awk -F, -v Threshold=15 '$1 > Threshold {print $4}' airline_stats.csv | sort
+  315  awk -F, -v Threshold=15 '$1 > Threshold {print $4}' airline_stats.csv | sort | uniq
+  316  cd ~
+  317  cd kuznetsovaFI_A6
+  318  vi airline_inquiry.txt 
+  319  history > a6_cmds.log
