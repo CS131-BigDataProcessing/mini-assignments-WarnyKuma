@@ -1,0 +1,4 @@
+0 2 * * * rm -rf ~/temp/*
+0 3 * * 0 sh /~/mini-assignments-WarnyKuma/A9_cron/backup.sh
+30 8 * * * df -h | mail -s "Daily Disk Usage Report" email@example.com
+

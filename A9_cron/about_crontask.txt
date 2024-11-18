@@ -1,0 +1,12 @@
+1. Set up a Daily File Cleanup Using Cron
+0 2 * * * means 2 AM every day
+rm -rf forece removed all files from directory
+
+2. Schedule a Weekly System Backup with Cron
+0 3 * * 0 means 3 AM every Sunday
+tar -czf creates a compressed .tar.gz backup file and stores it in backups folder in home directory
+
+3. Write command line for sending a Disk Usage Report using Cron
+30 8 * * * means 8:30 AM every day
+df -h shows disk space usage in human-readable format
+mail -s sends an email with the subject "Daily Disk Usage Report"
