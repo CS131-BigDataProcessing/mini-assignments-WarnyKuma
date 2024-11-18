@@ -1,0 +1,11 @@
+Step 1: Removes unnecessary spaces at the end of lines.
+Step 2: Replaces missing values with NA.
+Step 3: Removes rows with fewer columns than expected.
+Step 4: Removes duplicate rows based on id.
+Step 5: Filters outliers based on a calculated range for price.
+
+Group members:
+Nathan Cohn
+Ryan Miller
+Jatesh Joshi
+Maria Kuznetsova (me)
